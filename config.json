@@ -1,0 +1,11 @@
+{
+    "token": "542fdsga457u546jksde45",
+    "ami": {
+        "host": "",
+        "port": 5038,
+        "user": "",
+        "pass": "",
+        "type": "PJSIP",
+        "context": "from-internal"
+    }
+}
